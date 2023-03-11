@@ -1,0 +1,13 @@
+/* .collapse-container {
+  background-color: red;
+}
+
+.collapse-content {
+  @apply transition-[height] overflow-hidden;
+} */
+
+/* Header Style */
+
+.nav-link {
+  @apply group-hover:text-main-pink transition-colors ;
+}

@@ -1,0 +1,3 @@
+.input-style {
+  @apply py-3 border-b-2 border-b-main-pink focus:outline-none;
+}

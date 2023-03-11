@@ -1,0 +1,6 @@
+.card {
+  background-color: red;
+}
+.card:not(:hover) {
+  background-color: orange;
+}

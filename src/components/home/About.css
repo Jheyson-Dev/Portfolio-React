@@ -1,0 +1,9 @@
+.container-info {
+  @apply flex flex-col gap-5;
+}
+.info-title {
+  @apply text-xl font-extralight;
+}
+.info-data {
+  @apply text-6xl font-semibold;
+}
