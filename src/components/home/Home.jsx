@@ -18,10 +18,10 @@ export const Home = () => {
             </h1>
           </div>
           <div className='grid grid-cols-1 gap-5 mt-20 sm:grid-cols-2 lg:place-items-center'>
-            <button className='bg-main-green buttons justify-self-end'>
+            <button className='bg-main-green buttons lg:justify-self-end'>
               See our Works
             </button>
-            <button className='bg-main-pink buttons justify-self-start'>
+            <button className='bg-main-pink buttons lg:justify-self-start'>
               Conect with us
             </button>
           </div>

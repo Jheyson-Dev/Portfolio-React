@@ -11,5 +11,5 @@
   }
 }
 .buttons {
-  @apply font-medium text-lg py-5 text-white w-1/2;
+  @apply font-medium text-lg py-5 text-white  lg:w-1/2;
 }
